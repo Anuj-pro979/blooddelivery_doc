@@ -1,6 +1,6 @@
-Nice — I upgraded everything and gave you **detailed page lists** + a realistic **JSON `pageState` example** for every page in each application: **User (Hospital/Patient)**, **Delivery Agent**, **Blood Bank**, **Admin**, and **Logistics Admin**.
+**detailed page lists** + a realistic **JSON `pageState` example** for every page in each application: **User (Hospital/Patient)**, **Delivery Agent**, **Blood Bank**, **Admin**, and **Logistics Admin**.
 
-You can paste these JSON objects into your front-end state, use them as mock API responses for development, or convert them into Postman/OpenAPI mocks. I keep sensitive fields masked (Aadhaar masked, no raw PHI). If you want, I can also convert any of these into React components or Storybook stories next.
+You can paste these JSON objects into your front-end state, use them as mock API responses for development, or convert them into Postman/OpenAPI mocks. I keep sensitive fields masked (Aadhaar masked, no raw PHI).
 
 ---
 
@@ -679,9 +679,6 @@ Notes: focused on routing, hubs, fleet, telemetry aggregation, and distribution 
 * Replace UUID placeholders like `res-uuid-1001` with real IDs in your system.
 * For telemetry graphs, fetch `telemetry_points` separately and render charts client-side.
 
----
-
-If you want, next I can:
 
 * Convert a single app (say Blood Bank UI) into a **React + Tailwind** one-file component (previewable), or
 * Generate **OpenAPI** mocks for these page APIs, or
