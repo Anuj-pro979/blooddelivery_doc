@@ -20,7 +20,7 @@ India’s blood transfusion and delivery landscape faces several systemic issues
 
 ## Objectives
 
-Your blood delivery application can directly address these critical gaps. Here's how:
+our blood delivery application can directly address these critical gaps. Here's how:
 
 1. **Enable real-time online booking of blood units**
 
