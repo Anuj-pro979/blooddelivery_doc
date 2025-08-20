@@ -1,5 +1,4 @@
-Perfect 👍 we’ll frame that into a clear **Purpose** section for your documentation.
-Here’s a refined version:
+
 
 ---
 
